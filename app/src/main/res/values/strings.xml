@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="rotate">Rotate</string>
+    <string name="gameover">Game Over!</string>
+    <string name="shland">Shapes Landed:</string>
+    <string name="lineclear">Lines Cleared:</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="easy">EASY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+    <string name="newGame">New Game</string>
+</resources>
